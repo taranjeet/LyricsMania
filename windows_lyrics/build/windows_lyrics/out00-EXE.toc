@@ -1,0 +1,9 @@
+('C:\\Python27\\PyInstaller-2.1\\PyInstaller-2.1\\windows_lyrics\\build\\windows_lyrics\\windows_lyrics.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1406012300L)
