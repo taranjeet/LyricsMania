@@ -11,6 +11,10 @@ The installation procedure is very simple :
 * Now copy the complete folder **windows_lyrics** in **C:\**.
 
 Voila!!!
-You are done. Now right click on any song name and in the **Send to** context select **Lyrics.cmd**
+You are done. Now right click on any song and in the **Send to** context select **Lyrics.cmd**.
+
+If you like it then show your support by clicking on **Star** button in upper right corner of the screen.
+
+Any queries can be addressed at : **reachtotj@gmail.com**.
 
 
